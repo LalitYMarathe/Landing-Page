@@ -1,0 +1,67 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+   color: white;
+}
+
+.main-text-heading{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.main-text{
+    font-size: 24px;
+}
+.Header{
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+}
+
+li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.logo{
+    height: 25px;
+    border-radius: 50px;
+}
+
+.course-img{
+    height: auto;
+    width: 400px;
+    border-radius: 15px;
+}
+
+.first-container{
+    height: 550px;
+    width: 100%;
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.Courses-info{
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+}
+
+.signup-button{
+    background-color: #3882F6;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+}
