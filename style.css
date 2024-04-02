@@ -129,3 +129,42 @@ ul{
     margin-top: 10px;
     font-weight: bolder;
 }
+
+.forth-container{
+    height: 380px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-box{
+    height: 140px;
+    width: 1000px;
+    border: #3882F6 solid 3px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 15px;
+    color: white;
+}
+
+.call-heading{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.info{
+    font-size: 18px;
+}
+
+.call-signup-button{
+    padding: 8px 30px;
+    border-radius: 30px;
+    border:white solid 2px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
